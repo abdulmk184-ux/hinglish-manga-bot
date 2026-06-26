@@ -2,7 +2,9 @@ import asyncio
 from telegram import Update
 from telegram.ext import Application, MessageHandler, ContextTypes, filters
 
-TOKEN = "YAHAN_APNA_NAYA_BOT_TOKEN_DALO"
+TOKEN = "8905509516:AAHCAPiDOPA3IseS6TI2WD
+
+ZE97a6m6TExjc"
 
 async def photo_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text("✅ Manga image receive ho gayi!")
