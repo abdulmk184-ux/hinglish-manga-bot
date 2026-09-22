@@ -2,7 +2,7 @@ import asyncio
 from telegram import Update
 from telegram.ext import Application, MessageHandler, ContextTypes, filters
 
-TOKEN = "8905509516":AAHCAPiDOPA3IseS6TI2WD
+TOKEN = "8905509516:AAHCAPiDOPA3IseS6TI2WD"
 
 ZE97a6m6TExjc
 
